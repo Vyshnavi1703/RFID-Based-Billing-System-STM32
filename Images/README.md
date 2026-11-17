@@ -1,3 +1,5 @@
-# Images
 
-This folder contains photographs of the RFID-based automated billing system.
+
+## Project Images
+
+[View Project Hardware Photographs](Project_Images.pdf)
