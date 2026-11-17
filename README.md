@@ -29,7 +29,7 @@ Designed and developed an RFID-based automated billing system using the STM32F40
 - **Microcontroller:** STM32F401RBT6
 - **Communication Protocol:** SPI
 - **Peripheral Interfaces:** GPIO, SPI
-- **Development Environment:** STM32CubeIDE
+- **Development Environment:** Keil µVision5
 
 ## System Implementation
 
